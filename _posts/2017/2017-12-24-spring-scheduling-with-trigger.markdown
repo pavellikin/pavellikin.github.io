@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Динамический Scheduling в spring boot с помощью триггеров"
+title:  "Динамический scheduling в spring boot с помощью триггеров"
 date:   2017-12-24 17:00:34 +0300
 categories: rus java spring-boot
 ---
