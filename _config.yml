@@ -14,3 +14,5 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+google_analytics: UA-112055662-1
