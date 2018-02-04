@@ -1,18 +1,19 @@
-title: Pavel Likin`s blog
+title: Stories about programming
 author: Pavel Likin
 email: pavellikin@gmail.com
-description: Stories about programming.
+description: Stories about programming
 twitter_username: burnout171
 github_username:  burnout171
 encoding: utf-8
-pagination: 5
-paginate_path: "/blog/page:num/"
-
-# Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
-  - jekyll-paginate
 
 google_analytics: UA-112055662-1
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
