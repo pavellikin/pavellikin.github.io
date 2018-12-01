@@ -11,10 +11,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 google_analytics: UA-112055662-1
 
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
+paginate: 5

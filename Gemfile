@@ -21,7 +21,7 @@ gem "minima", "~> 2.5.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.10.0"
   gem "jekyll-seo-tag", "~> 2.5.0"
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate", "~> 1.1.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
