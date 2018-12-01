@@ -2,7 +2,7 @@
 layout: post
 title:  "Динамический scheduling в spring boot с помощью триггеров"
 date:   2017-12-24 17:00:34 +0300
-categories: rus java spring-boot
+tags: rus java spring-boot
 ---
 Spring boot предоставляет удобную возможность по управлению задачами, которые должны быть выполнены через заданные промежутки времени. Для этого достаточно воспользоваться аннотацией @Scheduled.
 

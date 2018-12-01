@@ -14,6 +14,15 @@ layout: default
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {% if post.tags.size > 0 %}
+            <span>
+                {% for tag in post.tags %}
+                <a href="/tag/{{ tag }}">
+                    <code class="highligher-rouge">{{ tag }}</code>
+                </a>
+                {% endfor %}
+            </span>
+            {% endif %}
             {{ post.excerpt }}
         </li>
         {% endfor %}

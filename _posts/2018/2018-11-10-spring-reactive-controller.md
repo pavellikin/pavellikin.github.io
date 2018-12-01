@@ -2,7 +2,7 @@
 layout: post
 title:  "Реактивный REST контроллер в Spring"
 date:   2018-11-18 13:20:34 +0300
-categories: rus java spring-boot open-api
+tags: rus java spring-boot open-api
 ---
 В spring boot, начиная с версии 2.0, добавили возможность использовать реактивный подход для некоторых сценариев. Например, стало возможным использовать реактивные драйверы для некоторых баз данных и для REST контроллеров. В сети полно примеров, где показано как реализовать REST контроллер самому. Однако, бывают ситуации, когда контроллер и модель должны удовлетворять какому-либо контракту, например, описанному с помощью [open api](https://github.com/OAI/OpenAPI-Specification). В этой статье я покажу, как сгенерировать реактивный контроллер при помощи [openapi-generator-maven-plugin](https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin).
 
