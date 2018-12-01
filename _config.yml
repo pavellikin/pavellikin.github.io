@@ -1,9 +1,9 @@
-title: Programming stories
+title: Истории одного программиста
 author: Pavel Likin
 email: pavellikin@gmail.com
-description: Programming stories
 twitter_username: burnout171
-github_username:  burnout171
+github_username: burnout171
+linkedin_username: pavellikin
 encoding: utf-8
 markdown: kramdown
 theme: minima

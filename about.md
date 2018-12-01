@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: О себе
 permalink: /about/
 ---
-Hi, my name is Pavel Likin and this is my personal blog. I live in Nizhny Novgorod, Russia and I am a software developer.
 
-My professional area of interests include programming and distributed systems. At free time I would like to  read fiction books or listen technical podcasts.
-This blog will cover my interests.
+Привет, меня зовут Павел. Я занимаюсь разработкой программного обеспечения и планирую писать об интересующих меня темах тут, в моем блоге.
+
+Я начинал свой путь как тестировщик встраиваемого ПО для L2 коммутаторов, но вскоре вырос до разработчика. Какое-то время моя работа была связана с классическими и программно-конфигурируемыми сетями. В это время я много занимался исследованиями и разрабатывал на C, C++ и plain Java. Однако, некоторое время назад, я решил перейти в более практическую область backend разработки. Последнее время сфера моих интересов охватывает JVM based языки программирования (Kotlin, Scala) и распределенные системы. 

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Subscribe
+title: RSS
 permalink: /feed.xml
 ---
