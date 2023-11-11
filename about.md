@@ -1,9 +1,13 @@
 ---
 layout: page
-title: О себе
+title: About me
 permalink: /about/
 ---
 
-Привет, меня зовут Павел. Я занимаюсь разработкой программного обеспечения и планирую писать об интересующих меня темах тут, в моем блоге.
+Hello there! 👋 I'm Pavel, and you've landed on my webpage.
 
-Я начинал свой путь как тестировщик встраиваемого ПО для L2 коммутаторов, но вскоре вырос до разработчика. Какое-то время моя работа была связана с классическими и программно-конфигурируемыми сетями. В это время я много занимался исследованиями и разрабатывал на C, C++ и plain Java. Однако, некоторое время назад, я решил перейти в более практическую область backend разработки. Последнее время сфера моих интересов охватывает JVM based языки программирования (Kotlin, Scala) и распределенные системы. 
+I bring over a decade of experience in software development, along with around two years of engineering management under my belt.
+
+My career kicked off in the telecom sector, where I delved into hardware, TCP/IP stack, and software-defined networking using C/C++. After spending roughly five years in embedded programming, I made a switch to the Java world and eventually transitioned to backend development. Along the way, I honed my skills in databases, message brokers, microservices, observability, and team management.
+
+Since 2022, I've been residing in Berlin, where I'm deeply involved in working with Kotlin.

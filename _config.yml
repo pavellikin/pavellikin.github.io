@@ -1,12 +1,11 @@
-title: Истории одного программиста
+title: Tales from a Developer's Journey
 author: Pavel Likin
 email: pavellikin@gmail.com
 encoding: utf-8
 markdown: kramdown
 theme: minima
 
-twitter_username: burnout171
-github_username: burnout171
+github_username: pavellikin
 linkedin_username: pavellikin
 rss: /feed.xml
 
@@ -17,4 +16,4 @@ plugins:
 
 google_analytics: UA-112055662-1
 
-paginate: 5
+paginate: 10
